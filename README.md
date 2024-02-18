@@ -16,7 +16,7 @@ and levels; I strive to contribute to cultures of growth and productivity at wor
 ![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=Swift&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=coffee&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
 ![MIPS](https://img.shields.io/badge/mips-red?style=for-the-badge&logo=mips&logoColor=white)
 
