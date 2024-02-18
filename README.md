@@ -28,7 +28,7 @@ and levels; I strive to contribute to cultures of growth and productivity at wor
 ### Frameworks
 
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=Tailwind&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=Tailwind-css&logoColor=white)
 ![.NET](https://img.shields.io/badge/dotnet-blue?style=for-the-badge&logo=dotnet&logoColor=black)
 
 ### Environment
