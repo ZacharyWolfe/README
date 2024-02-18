@@ -31,7 +31,7 @@ and levels; I strive to contribute to cultures of growth and productivity at wor
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=Tailwind&logoColor=white)
 ![.NET](https://img.shields.io/badge/dotnet-blue?style=for-the-badge&logo=dotnet&logoColor=black)
 
-### Enviroment
+### Environment
 
 ![Windows](https://img.shields.io/badge/Windows_10-darkblue?style=for-the-badge&logo=Windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=Apple&logoColor=white)
