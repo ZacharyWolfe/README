@@ -39,7 +39,7 @@ and levels; I strive to contribute to cultures of growth and productivity at wor
 
 ### Tools
 
-![Figma](https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=Figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-hotpink?style=for-the-badge&logo=Figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
 
 ## Links
