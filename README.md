@@ -28,6 +28,7 @@ and levels; I strive to contribute to cultures of growth and productivity at wor
 ### Frameworks
 
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
+![React-Native](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge&logo=React&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=Tailwind-css&logoColor=white)
 ![.NET](https://img.shields.io/badge/dotnet-blue?style=for-the-badge&logo=dotnet&logoColor=black)
 
@@ -35,7 +36,7 @@ and levels; I strive to contribute to cultures of growth and productivity at wor
 
 ![Windows](https://img.shields.io/badge/Windows_10-darkblue?style=for-the-badge&logo=Windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=Apple&logoColor=white)
-![NVIM](https://img.shields.io/badge/VIM-007ACC?style=for-the-badge&logo=VIM&logoColor=white)
+![NVIM](https://img.shields.io/badge/NVIM-007ACC?style=for-the-badge&logo=VIM&logoColor=white)
 
 ### Tools
 
