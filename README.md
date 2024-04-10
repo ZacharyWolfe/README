@@ -1,9 +1,9 @@
-## 👋 About me
+## About me
 
 Mission Statement: Full-time student and hobbyist software developer with interests of pursuing a career in data engineering. Experienced with several programming languages, data structures, and leveraging novel patterns to deliver efficient outcomes. I believe leadership is possible from all roles
 and levels; I strive to contribute to cultures of growth and productivity at work and in my professional communities.
 
-🎓Hi! I'm a Sophomore studying Computer Science at **Ohio University Athens** with interests in databases, servers, low-level computation, mobile applications, and new technologies. Additionally, I'm pursuing a Mathematics minor and expect to graduate by **2026**.
+I'm a Sophomore studying Computer Science at **Ohio University Athens** with interests in databases, servers, low-level computation, mobile applications, and new technologies. Additionally, I'm pursuing a Mathematics minor and expect to graduate by **2026**.
 
 ### Languages
 
